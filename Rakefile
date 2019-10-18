@@ -1,3 +1,5 @@
+require 'pry'
+
 desc 'outputs hello to the terminal'
 namespace :greeting do
   task :hello do
